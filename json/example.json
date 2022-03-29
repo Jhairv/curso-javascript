@@ -1,0 +1,9 @@
+{
+    "string": "asdjfsajd",
+    "numbers": 2,
+    "array": [2, 4, 5, 7],
+    "obj": {
+        "ajsdf": "asdjfjsdf"
+    },
+    "bool": true        
+}

@@ -1,0 +1,12 @@
+:root{
+    --var-bg-color: #647c9044;
+    --var-font-color: #fff;
+}
+
+a {
+    display: block;
+}
+
+input {
+    display: block;
+}

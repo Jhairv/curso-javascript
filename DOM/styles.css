@@ -1,0 +1,10 @@
+:root{
+    --var-bg-color: #000;
+    --var-font-color: #fff;
+}
+
+
+.ejemplo{
+    background: rgb(230, 63, 63);
+    color: rgb(151, 197, 228);
+}
