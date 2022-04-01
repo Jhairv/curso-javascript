@@ -1,0 +1,19 @@
+.uno{
+  background-color: #EFCA08
+}
+ 
+.dos{
+  background-color: #00A6A6
+}
+.tres{
+  background-color: #BBDEF0
+}
+
+div {
+  padding: 20px;
+  text-align: center;
+}
+
+a {
+  display: block;
+}
