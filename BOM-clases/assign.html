@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Assign</title>
+</head>
+<body>
+  <h1>Esto es un documento Assign </h1>
+  <p id="path"></p>
+
+  <script>
+    const path = document.getElementById("path");
+    path.textContent = `El Pathname es: ${window.location.pathname}`;
+    document.body.appendChild(path);
+  </script>
+  
+</body>
+</html>
